@@ -38,8 +38,8 @@ This project analyzes **Ola ride data** to uncover business insights. Key aspect
 ✔ Analyze **cancellation reasons** from customers & drivers  
 ✔ Compute **customer & driver ratings distribution**  
 
-📝 **SQL Query Results:**  
-![SQL Analysis](OLA_SQL-ANSWERS.png)  
+📌 **Check the SQL Query Results:**  
+📄 **[`SQL Analysis Answers`](./OLA_SQL-ANSWERS.png)**  
 
 ---
 
@@ -60,15 +60,15 @@ Created an **interactive dashboard** to visualize ride data trends:
 📄 **[`OLA_DATASET.csv`](./OLA_DATASET.csv)** – Raw ride dataset  
 📊 **[`OLA_DASHBOARD.pbix`](./OLA_DASHBOARD.pbix)** – Power BI interactive dashboard  
 📝 **`README.md`** – Project details and insights  
-🖼 **`OLA_QUESTIONS.png`** – Analysis plan & questions  
-🖼 **`OLA_SQL-ANSWERS.png`** – SQL analysis results  
-🖼 **`OLA_POWER_BI-ANSWERS.png`** – Power BI dashboard output  
+🖼 **[`OLA_QUESTIONS.png`](./OLA_QUESTIONS.png)** – Analysis plan & questions  
+🖼 **[`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)** – SQL analysis results  
+🖼 **[`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)** – Power BI dashboard output  
 
 ---
 
 ## 🚀 How to Use This Project?  
 1️⃣ **Download the dataset** – [`OLA_DATASET.csv`](./OLA_DATASET.csv)  
-2️⃣ **Run SQL queries** to extract insights.  
+2️⃣ **Run SQL queries** to extract insights – [`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)  
 3️⃣ **Open the Power BI dashboard** – [`OLA_DASHBOARD.pbix`](./OLA_DASHBOARD.pbix) to explore visualizations.  
 
 ---
@@ -76,7 +76,7 @@ Created an **interactive dashboard** to visualize ride data trends:
 ## 📢 Let's Connect!  
 💡 If you liked this project, feel free to ⭐ star the repository and share your thoughts!  
 
-🔗 **Connect with me on LinkedIn** – [https://www.linkedin.com/in/rohit-panwar22/]  
+🔗 **Connect with me on LinkedIn** – [Your LinkedIn Profile]  
 
 ---
 
