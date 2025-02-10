@@ -51,8 +51,8 @@ Created an **interactive dashboard** to visualize ride data trends:
 💳 **Revenue by Payment Method**  
 ⭐ **Customer vs. Driver Ratings**  
 
-📌 **Power BI Dashboard Output:**  
-![Power BI Dashboard](OLA_POWER_BI-ANSWERS.png)  
+📌 **Check the Power BI Dashboard Output:**  
+📄 **[`Power BI Dashboard Answers`](./OLA_POWER_BI-ANSWERS.png)**  
 
 ---
 
@@ -60,15 +60,15 @@ Created an **interactive dashboard** to visualize ride data trends:
 📄 **[`OLA_DATASET.csv`](./OLA_DATASET.csv)** – Raw ride dataset  
 📝 **`README.md`** – Project details and insights  
 🖼 **[`OLA_QUESTIONS.png`](./OLA_QUESTIONS.png)** – Analysis plan & questions  
-🖼 **[`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)** – SQL analysis results  
-🖼 **[`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)** – Power BI dashboard output  
+📄 **[`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)** – SQL analysis results  
+📄 **[`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)** – Power BI dashboard output  
 
 ---
 
 ## 🚀 How to Use This Project?  
 1️⃣ **Download the dataset** – [`OLA_DATASET.csv`](./OLA_DATASET.csv)  
 2️⃣ **Run SQL queries** to extract insights – [`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)  
-3️⃣ **Explore the Power BI dashboard** for visualization.  
+3️⃣ **Explore the Power BI dashboard insights** – [`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)  
 
 ---
 
